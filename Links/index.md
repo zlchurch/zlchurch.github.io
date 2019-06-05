@@ -1,3 +1,7 @@
+---
+layout: default
+title: CV of Haihan Yu
+---
 ##Economics
 [Al Roth&#39;s Game Theory, Experimental Economics, and](http://web.stanford.edu/~alroth/alroth.html)[Market Design Page](http://web.stanford.edu/~alroth/alroth.html)
 
