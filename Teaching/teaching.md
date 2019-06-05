@@ -1,27 +1,36 @@
-layout: default
-title: CV of Haihan Yu
-
 ##Advanced Microeconomic Theory I (graduate course)
 
-####[Theory of Consumer]("/Teaching/consumer.pdf")
+[Theory of Consumer]("/Teaching/consumer.pdf")
 
-#### Theory of Producer
 
-#### Competitive Markets and Partial Equilibrium Analysis
 
-####General Equilibrium Analysis
+[Theory of Producer]("/Teaching/consumer.pdf")
 
-####Choice under Uncertainty			 				 			 		
+
+
+[Competitive Markets and Partial Equilibrium Analysis]("/Teaching/consumer.pdf")
+
+
+
+[General Equilibrium Analysis]("/Teaching/consumer.pdf")
+
+
+
+[Choice under Uncertainty]("/Teaching/consumer.pdf")		 				 			 		
 
 
 
 ## Matching and Market Design (Graduate Course) 
 
-#### Two-sided Matching
+[Two-sided Matching]("/Teaching/consumer.pdf")
 
-####One-side Matching  
 
-### School Choice
+
+[One-side Matching]("/Teaching/consumer.pdf")
+
+
+
+[School Choice]("/Teaching/consumer.pdf")
 
 
 
