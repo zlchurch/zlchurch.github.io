@@ -1,4 +1,4 @@
-##Advanced Microeconomic Theory I (graduate course)
+###Advanced Microeconomic Theory I (graduate course)
 
 [Theory of Consumer]("/Teaching/consumer.pdf")
 
@@ -16,11 +16,13 @@
 
 
 
-[Choice under Uncertainty]("/Teaching/consumer.pdf")		 				 			 		
+[Choice under Uncertainty]("/Teaching/consumer.pdf")		 	
+
+​			 			 		
+
+### Matching and Market Design (Graduate Course) 
 
 
-
-## Matching and Market Design (Graduate Course) 
 
 [Two-sided Matching]("/Teaching/consumer.pdf")
 
