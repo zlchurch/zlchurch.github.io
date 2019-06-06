@@ -1,4 +1,4 @@
-##Economics
+**Economics**
 [Al Roth&#39;s Game Theory, Experimental Economics, and](http://web.stanford.edu/~alroth/alroth.html)[Market Design Page](http://web.stanford.edu/~alroth/alroth.html)
 
 [Fuhito Kojima&#39;s Lectures notes on game theory and market design](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
@@ -29,7 +29,7 @@ Tim Roughgarden's Lecture Videos on [Algorithmic Game Theory](https://www.youtub
 
 [Discrete Convex Analysis：A Tool for Economics and Game Theory](http://www.mechanism-design.org/arch/v001-1/p_05.pdf)
 
-##Statistics, Econometrics and Machine Learning
+**Statistics, Econometrics and Machine Learning**
 
 [Paul Shrimpf&#39;s Lecture notes on Empirical Industrial Organizations](http://faculty.arts.ubc.ca/pschrimpf/565/565.html)
 
@@ -49,7 +49,7 @@ Tim Roughgarden's Lecture Videos on [Algorithmic Game Theory](https://www.youtub
 
 [Bryan Graham&#39;s Lecture Notes on Econometrics for Social Networks](https://github.com/bryangraham/short_courses)
 
-##Mathematics
+**Mathematics**
 
 [Francis Su&#39;s Lecture Videos on Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
@@ -61,15 +61,15 @@ Tim Roughgarden's Lecture Videos on [Algorithmic Game Theory](https://www.youtub
 
 Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
-##Cognitive Science
+**Cognitive Science**
 
 [Probabilistic Model of Cognition](https://probmods.org/)
 
 [Probability and Causality in Human Cognition](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-916-a-probability-and-causality-in-human-cognition-spring-2003/)
 
-##Programming
+**Programming**
 
-###Mathematica/Wolfram Language
+* Mathematica/Wolfram Language
 
 [Wolfram Demonstrations Projects](http://demonstrations.wolfram.com/)
 
@@ -83,7 +83,7 @@ Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
 [StackExchange–Mathematica](http://mathematica.stackexchange.com/)
 
-###Python
+* Python
 
 [PyMC(Python for Bayesian Econometrics)](https://pymc-devs.github.io/pymc/)
 
@@ -93,7 +93,7 @@ Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
 [Doing mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook)
 
-##Light Readings
+**Light Readings**
 
 [Savage Minds](http://savageminds.org/)
 
