@@ -1,8 +1,8 @@
 **Economics**   
 
-[Al Roth&#39;s Game Theory, Experimental Economics, and](http://web.stanford.edu/~alroth/alroth.html)[Market Design Page](http://web.stanford.edu/~alroth/alroth.html)
+[Al Roth&#39;s Game Theory, Experimental Economics and Market Design Page](http://web.stanford.edu/~alroth/alroth.html)
 
-[Fuhito Kojima&#39;s Lectures notes on game theory and market design](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
+[Fuhito Kojima&#39;s Lectures Notes on Game theory and Market Design](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 
 Daniel Krähmer&#39;s Classes on [Behavioral Mechanism Design](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html) and [Bayesian Persuasion and Disclosure](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
 
