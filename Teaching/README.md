@@ -1,4 +1,4 @@
-**Advanced Microeconomic Theory I (graduate course)**
+**Advanced Microeconomic Theory I (Graduate Course)**
 
 
 
