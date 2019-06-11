@@ -1,20 +1,20 @@
 **Economics**   
 
-[Al Roth&#39;s Game Theory, Experimental Economics and Market Design Page](http://web.stanford.edu/~alroth/alroth.html)
+Alvin Roth: [Game theory, experimental economics and market design (webpage)](http://web.stanford.edu/~alroth/alroth.html)
 
-[Fuhito Kojima&#39;s Lectures Notes on Game theory and Market Design](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
+Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 
-Daniel Krähmer&#39;s Classes on [Behavioral Mechanism Design](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html) and [Bayesian Persuasion and Disclosure](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
+Daniel Krähmer: [Behavioral Mechanism Design](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
 
-[David K. Levine&#39;s Game Theory Website](http://www.dklevine.com/papers.htm)
+David K. Levine: [Game theory (lecture notes)](http://www.dklevine.com/lectures/political-economy/index.htm)  
 
-Giacomo Bonanno&#39;s Open Access Books on [Decesion Making](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html) and [Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
+Giacomo Bonanno: [Decesion Making (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html);  [Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
 
-[Itzhak Gilboa&#39;s Lectures Notes on Decision Theory](http://itzhakgilboa.weebly.com/teaching-material.html)
+Itzhak Gilboa: [Decision theory (lecture notes)](http://itzhakgilboa.weebly.com/teaching-material.html)
 
-[Andrés Perea&#39;s Lecture Videos on Epistemic Game Theory](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
+Andrés Perea: [Epistemic Game Theory (lecture vedic)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
 
-[Noam Nisan&#39;s Lecture Notes on Computational Game Theory](https://hujiamd.wordpress.com/class-notes/)
+Noam Nisan:  Lecture Notes on Computational Game Theory](https://hujiamd.wordpress.com/class-notes/)
 
 [Jason Hartline&#39;s Notes on Mechanism Design Approximation](http://jasonhartline.com/MDnA/)
 
