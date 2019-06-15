@@ -4,23 +4,23 @@ Alvin Roth: [Game theory, experimental economics and market design (webpage)](ht
 
 Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 
-Daniel Krähmer: [Behavioral Mechanism Design](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
+Daniel Krähmer: [Behavioral Mechanism Design (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
 
 David K. Levine: [Game theory (lecture notes)](http://www.dklevine.com/lectures/political-economy/index.htm)  
 
-Giacomo Bonanno: [Decesion Making (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html);  [Game Theory](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
+Giacomo Bonanno: [Decesion Making (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html);  [Game Theory (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
 
 Itzhak Gilboa: [Decision theory (lecture notes)](http://itzhakgilboa.weebly.com/teaching-material.html)
 
-Andrés Perea: [Epistemic Game Theory (lecture vedic)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
+Andrés Perea: [Epistemic Game Theory (lecture vedio)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
 
-Noam Nisan:  Lecture Notes on Computational Game Theory](https://hujiamd.wordpress.com/class-notes/)
+Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpress.com/class-notes/)
 
-[Jason Hartline&#39;s Notes on Mechanism Design Approximation](http://jasonhartline.com/MDnA/)
+Jason Hartline: [Mechanism design approximation (lecture notes)](http://jasonhartline.com/MDnA/)
 
-Tim Roughgarden's Lecture Videos on [Algorithmic Game Theory](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4), [Advanced Mechanism Design](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
+Tim Roughgarden: [Algorithmic game theory](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced Mechanism Design (lecture vedio)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
-[Vincent P. Crawford&#39;s Lecture Notes on Game Theory, Microeconomics and Behavioral Economics](http://econweb.ucsd.edu/~vcrawfor/index.html#Courses)
+Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lecture notes)](http://econweb.ucsd.edu/~vcrawfor/index.html#Courses)
 
 [Aldo Rustichini&#39;s Lecture Notes on Game Theory and Economics](https://sites.google.com/site/aldorustichini/home/aldo-rustichini-teaching-university-of-minnesota)
 
@@ -66,9 +66,7 @@ Tim Roughgarden's Lecture Videos on [Algorithmic Game Theory](https://www.youtub
 
 Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
-**Cognitive Science**  
-
-
+**Cognitive Science**    
 
 [Probabilistic Model of Cognition](https://probmods.org/)
 
