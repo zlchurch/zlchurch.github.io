@@ -1,3 +1,5 @@
+------
+
 **Economics**   
 
 ------
@@ -28,7 +30,7 @@ Aldo Rustichini: [Game theory and economics (lecture notes)](https://sites.googl
 
 Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campuspress.yale.edu/dirkbergemann/teaching/)
 
-
+------
 
 **Statistics, Econometrics and Machine Learning**  
 
@@ -50,7 +52,7 @@ Victor Aguirregabiria: [Structural econometrics for industrial organizations (le
 
 [Bryan Graham&#39;s Lecture Notes on Econometrics for Social Networks](https://github.com/bryangraham/short_courses)  
 
-
+------
 
 **Mathematics**  
 
@@ -68,7 +70,7 @@ Victor Aguirregabiria: [Structural econometrics for industrial organizations (le
 
 Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
-
+------
 
 **Cognitive Science**    
 
@@ -78,7 +80,11 @@ Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
 [Probability and Causality in Human Cognition](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-916-a-probability-and-causality-in-human-cognition-spring-2003/)
 
+-------
+
 **Programming**  
+
+-------
 
 
 
@@ -106,7 +112,11 @@ Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
 [Doing mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook)
 
+------
+
 **Light Readings**  
+
+------
 
 
 
