@@ -6,7 +6,7 @@ Alvin Roth: [Game theory, experimental economics and market design (webpage)](ht
 
 Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 
-Daniel KrÃ€hmer: [Behavioral Mechanism Design (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
+Daniel Krähmer: [Behavioral Mechanism Design (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
 
 David K. Levine: [Game theory (lecture notes)](http://www.dklevine.com/lectures/political-economy/index.htm)  
 
@@ -14,7 +14,7 @@ Giacomo Bonanno: [Decesion making (open access book)](http://faculty.econ.ucdavi
 
 Itzhak Gilboa: [Decision theory (lecture notes)](http://itzhakgilboa.weebly.com/teaching-material.html)
 
-AndrÃ©s Perea: [Epistemic game theory (lecture vedio)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
+Andrés Perea: [Epistemic game theory (lecture vedio)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
 
 Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpress.com/class-notes/)
 
@@ -38,7 +38,7 @@ Paul Shrimpf: [Empirical industrial organizationst (lecture notes)](http://facul
 
 Victor Aguirregabiria: [Structural econometrics for industrial organizations (lecture notes)](http://individual.utoronto.ca/vaguirre/courses/barcelona/teaching_io_bgse.html)
 
-[Kenneth Train&#39;s Lecture Notes onâDiscrete Choice Methods with Simulation](http://eml.berkeley.edu/books/choice2.html)
+[Kenneth Train&#39;s Lecture Notes on Discrete Choice Methods with Simulation](http://eml.berkeley.edu/books/choice2.html)
 
 [Bruce Hansen&#39;s Econometrics Notes](http://www.ssc.wisc.edu/~bhansen/econometrics/)
 
@@ -60,7 +60,7 @@ Victor Aguirregabiria: [Structural econometrics for industrial organizations (le
 
 [Francis Su&#39;s Lecture Videos on Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
-[Convex Analysis byâStephen Boydâ](http://web.stanford.edu/~boyd/cvxbook/)
+[Convex Analysis by Stephen Boyd ](http://web.stanford.edu/~boyd/cvxbook/)
 
 [Efe A. Ok&#39;s Notes on Topology, Mathematical Analysis, Probability and Order Theory](https://sites.google.com/a/nyu.edu/efeok/books)
 
@@ -86,15 +86,15 @@ Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
 [Wolfram Demonstrations Projects](http://demonstrations.wolfram.com/)
 
-[MathematicaâProgramming:âan Advanced Introduction](http://www.mathprogramming-intro.org/)
+[Mathematica ��Programming: an Advanced Introduction](http://www.mathprogramming-intro.org/)
 
-[Mathematica for Prediction Algorithemâ](https://mathematicaforprediction.wordpress.com/)
+[Mathematica for Prediction Algorithem ](https://mathematicaforprediction.wordpress.com/)
 
 [Wolfram Dicussion Forum](http://community.wolfram.com/)
 
 [Mathematica for Prediction Algorithms](https://mathematicaforprediction.wordpress.com/)
 
-[StackExchangeâMathematica](http://mathematica.stackexchange.com/)
+[StackExchange–Mathematica](http://mathematica.stackexchange.com/)
 
 * Python
 
