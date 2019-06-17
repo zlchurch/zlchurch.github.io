@@ -1,18 +1,20 @@
 **Economics**   
 
+------
+
 Alvin Roth: [Game theory, experimental economics and market design (webpage)](http://web.stanford.edu/~alroth/alroth.html)
 
 Fuhito Kojima: [Game theory and market design (lecture notes)](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)
 
-Daniel Krähmer: [Behavioral Mechanism Design (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
+Daniel KrÃ€hmer: [Behavioral Mechanism Design (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsSS14/TopicsSS14.html); [Bayesian Persuasion and Disclosure (lecture notes)](http://www.wiwi.uni-bonn.de/kraehmer/Lehre/TopicsWS14-15/TopicsWS14-15.html)
 
 David K. Levine: [Game theory (lecture notes)](http://www.dklevine.com/lectures/political-economy/index.htm)  
 
-Giacomo Bonanno: [Decesion Making (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html);  [Game Theory (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
+Giacomo Bonanno: [Decesion making (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html);  [Game theory (open access book)](http://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
 
 Itzhak Gilboa: [Decision theory (lecture notes)](http://itzhakgilboa.weebly.com/teaching-material.html)
 
-Andrés Perea: [Epistemic Game Theory (lecture vedio)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
+AndrÃ©s Perea: [Epistemic game theory (lecture vedio)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
 
 Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpress.com/class-notes/)
 
@@ -22,27 +24,23 @@ Tim Roughgarden: [Algorithmic game theory](https://www.youtube.com/playlist?list
 
 Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lecture notes)](http://econweb.ucsd.edu/~vcrawfor/index.html#Courses)
 
-[Aldo Rustichini&#39;s Lecture Notes on Game Theory and Economics](https://sites.google.com/site/aldorustichini/home/aldo-rustichini-teaching-university-of-minnesota)
+Aldo Rustichini: [Game theory and economics (lecture notes)](https://sites.google.com/site/aldorustichini/home/aldo-rustichini-teaching-university-of-minnesota)
 
-[Matthew Jackson&#39;s MOOC on Social and Economic Networks](https://www.coursera.org/learn/social-economic-networks)
+Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campuspress.yale.edu/dirkbergemann/teaching/)
 
-[Dirk Bergemann&#39;s Lecture Notes on Mechanism Design](http://campuspress.yale.edu/dirkbergemann/teaching/)[ and computation](http://campuspress.yale.edu/dirkbergemann/teaching/)
 
-[Discrete Convex Analysis：A Tool for Economics and Game Theory](http://www.mechanism-design.org/arch/v001-1/p_05.pdf)
 
 **Statistics, Econometrics and Machine Learning**  
 
+------
 
+Paul Shrimpf: [Empirical industrial organizationst (lecture notes)](http://faculty.arts.ubc.ca/pschrimpf/565/565.html)
 
-[Paul Shrimpf&#39;s Lecture notes on Empirical Industrial Organizations](http://faculty.arts.ubc.ca/pschrimpf/565/565.html)
+Victor Aguirregabiria: [Structural econometrics for industrial organizations (lecture notes)](http://individual.utoronto.ca/vaguirre/courses/barcelona/teaching_io_bgse.html)
 
-[Victor Aguirregabiria&#39;s Lecture Notes on Structural Econometrics for Industrial Organizations](http://individual.utoronto.ca/vaguirre/courses/barcelona/teaching_io_bgse.html)
-
-[Kenneth Train&#39;s Lecture Notes on Discrete Choice Methods with Simulation](http://eml.berkeley.edu/books/choice2.html)
+[Kenneth Train&#39;s Lecture Notes onâDiscrete Choice Methods with Simulation](http://eml.berkeley.edu/books/choice2.html)
 
 [Bruce Hansen&#39;s Econometrics Notes](http://www.ssc.wisc.edu/~bhansen/econometrics/)
-
-[Yaser Abu-Mostafa&#39;s MOOC on Machine Learning](http://work.caltech.edu/lectures.html)
 
 [Probabilistic Programming &amp; Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
@@ -50,15 +48,19 @@ Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lectu
 
 [A Repository of Papers that Bring Machine Learning into Economics and Econometrics](http://econ-neural.net/)
 
-[Bryan Graham&#39;s Lecture Notes on Econometrics for Social Networks](https://github.com/bryangraham/short_courses)
+[Bryan Graham&#39;s Lecture Notes on Econometrics for Social Networks](https://github.com/bryangraham/short_courses)  
+
+
 
 **Mathematics**  
+
+------
 
 
 
 [Francis Su&#39;s Lecture Videos on Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
-[Convex Analysis by Stephen Boyd ](http://web.stanford.edu/~boyd/cvxbook/)
+[Convex Analysis byâStephen Boydâ](http://web.stanford.edu/~boyd/cvxbook/)
 
 [Efe A. Ok&#39;s Notes on Topology, Mathematical Analysis, Probability and Order Theory](https://sites.google.com/a/nyu.edu/efeok/books)
 
@@ -66,7 +68,11 @@ Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lectu
 
 Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
+
+
 **Cognitive Science**    
+
+------
 
 [Probabilistic Model of Cognition](https://probmods.org/)
 
@@ -80,15 +86,15 @@ Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
 
 [Wolfram Demonstrations Projects](http://demonstrations.wolfram.com/)
 
-[Mathematica Programming: an Advanced Introduction](http://www.mathprogramming-intro.org/)
+[MathematicaâProgramming:âan Advanced Introduction](http://www.mathprogramming-intro.org/)
 
-[Mathematica for Prediction Algorithem ](https://mathematicaforprediction.wordpress.com/)
+[Mathematica for Prediction Algorithemâ](https://mathematicaforprediction.wordpress.com/)
 
 [Wolfram Dicussion Forum](http://community.wolfram.com/)
 
 [Mathematica for Prediction Algorithms](https://mathematicaforprediction.wordpress.com/)
 
-[StackExchange–Mathematica](http://mathematica.stackexchange.com/)
+[StackExchangeâMathematica](http://mathematica.stackexchange.com/)
 
 * Python
 
