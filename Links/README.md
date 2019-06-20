@@ -40,17 +40,16 @@ Paul Shrimpf: [Empirical industrial organizationst (lecture notes)](http://facul
 
 Victor Aguirregabiria: [Structural econometrics for industrial organizations (lecture notes)](http://individual.utoronto.ca/vaguirre/courses/barcelona/teaching_io_bgse.html)
 
-Kenneth Train:[Discrete choice methods with simulation (lecture notes)](http://eml.berkeley.edu/books/choice2.html)
+Kenneth Train: [Discrete choice methods with simulation (lecture notes)](http://eml.berkeley.edu/books/choice2.html)
 
-Bruce Hansen:[Econometrics (open access book)](http://www.ssc.wisc.edu/~bhansen/econometrics/)
+Bruce Hansen: [Econometrics (open access book)](http://www.ssc.wisc.edu/~bhansen/econometrics/)
 
-[Probabilistic Programming &amp; Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
-[Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
+Kevin Sheppard: [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
+
+Bryan Graham: [Econometrics for social networks(lecture notes)](https://github.com/bryangraham/short_courses)    
 
 [A Repository of Papers that Bring Machine Learning into Economics and Econometrics](http://econ-neural.net/)
-
-[Bryan Graham&#39;s Lecture Notes on Econometrics for Social Networks](https://github.com/bryangraham/short_courses)  
 
 ------
 
@@ -62,13 +61,13 @@ Bruce Hansen:[Econometrics (open access book)](http://www.ssc.wisc.edu/~bhansen/
 
 Francis Su: [Real analysis(lecture video)](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
-Stephen Boyd:[Convex analysis(lecture video)](http://web.stanford.edu/~boyd/cvxbook/)
+Stephen Boyd: [Convex analysis(lecture video)](http://web.stanford.edu/~boyd/cvxbook/)
 
 Efe A. Ok: [Topology, mathematical analysis, probability and order theory(lecture video)](https://sites.google.com/a/nyu.edu/efeok/books)
 
-[Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
+Sergei Treil: [Linear Algebra Done Wrong (open access)](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
 
-Rakesh V. Vohra&#39;s Lecture Notes on Submodularity and Discrete Convexity
+Rakesh V. Vohra: [Submodularity and discrete convexity(lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)
 
 ------
 
