@@ -87,7 +87,7 @@ Rakesh V. Vohra: [Submodularity and discrete convexity(lecture notes)](https://d
 
 
 
-<u>Mathematica/Wolfram Language<\u>
+<u>Mathematica/Wolfram Language</u>
 
 [Wolfram Demonstrations Projects](http://demonstrations.wolfram.com/)
 
@@ -101,7 +101,7 @@ Rakesh V. Vohra: [Submodularity and discrete convexity(lecture notes)](https://d
 
 [StackExchangeâ€“Mathematica](http://mathematica.stackexchange.com/)
 
-<u>Python<\u>
+<u>Python</u>
 
 [PyMC(Python for Bayesian Econometrics)](https://pymc-devs.github.io/pymc/)
 
