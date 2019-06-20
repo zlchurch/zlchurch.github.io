@@ -16,13 +16,13 @@ Giacomo Bonanno: [Decesion making (open access book)](http://faculty.econ.ucdavi
 
 Itzhak Gilboa: [Decision theory (lecture notes)](http://itzhakgilboa.weebly.com/teaching-material.html)
 
-Andres Perea: [Epistemic game theory (lecture vedio)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
+Andres Perea: [Epistemic game theory (lecture video)](http://epicenter.name/Perea/Video-lectures-on-epistemic-game-theory.html)
 
 Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpress.com/class-notes/)
 
 Jason Hartline: [Mechanism design approximation (lecture notes)](http://jasonhartline.com/MDnA/)
 
-Tim Roughgarden: [Algorithmic game theory](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced Mechanism Design (lecture vedio)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
+Tim Roughgarden: [Algorithmic game theory](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced Mechanism Design (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
 Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lecture notes)](http://econweb.ucsd.edu/~vcrawfor/index.html#Courses)
 
@@ -40,9 +40,9 @@ Paul Shrimpf: [Empirical industrial organizationst (lecture notes)](http://facul
 
 Victor Aguirregabiria: [Structural econometrics for industrial organizations (lecture notes)](http://individual.utoronto.ca/vaguirre/courses/barcelona/teaching_io_bgse.html)
 
-[Kenneth Train&#39;s Lecture Notes onâ€‚Discrete Choice Methods with Simulation](http://eml.berkeley.edu/books/choice2.html)
+Kenneth Train:[Discrete choice methods with simulation (lecture notes)](http://eml.berkeley.edu/books/choice2.html)
 
-[Bruce Hansen&#39;s Econometrics Notes](http://www.ssc.wisc.edu/~bhansen/econometrics/)
+Bruce Hansen:[Econometrics (open access book)](http://www.ssc.wisc.edu/~bhansen/econometrics/)
 
 [Probabilistic Programming &amp; Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
@@ -60,11 +60,11 @@ Victor Aguirregabiria: [Structural econometrics for industrial organizations (le
 
 
 
-[Francis Su&#39;s Lecture Videos on Real Analysis](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
+Francis Su: [Real analysis(lecture video)](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
-[Convex Analysis byâ€‚Stephen Boydâ€‚](http://web.stanford.edu/~boyd/cvxbook/)
+Stephen Boyd:[Convex analysis(lecture video)](http://web.stanford.edu/~boyd/cvxbook/)
 
-[Efe A. Ok&#39;s Notes on Topology, Mathematical Analysis, Probability and Order Theory](https://sites.google.com/a/nyu.edu/efeok/books)
+Efe A. Ok: [Topology, mathematical analysis, probability and order theory(lecture video)](https://sites.google.com/a/nyu.edu/efeok/books)
 
 [Linear Algebra Done Wrong](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
 
