@@ -53,7 +53,7 @@ Bryan Graham: [Econometrics for social networks(lecture notes)](https://github.c
 
 ------
 
-**Mathematics**  
+**Mathematics**
 
 ------
 
@@ -87,7 +87,7 @@ Rakesh V. Vohra: [Submodularity and discrete convexity(lecture notes)](https://d
 
 
 
-* Mathematica/Wolfram Language
+~Mathematica/Wolfram Language~
 
 [Wolfram Demonstrations Projects](http://demonstrations.wolfram.com/)
 
@@ -101,7 +101,7 @@ Rakesh V. Vohra: [Submodularity and discrete convexity(lecture notes)](https://d
 
 [StackExchangeâ€“Mathematica](http://mathematica.stackexchange.com/)
 
-* Python
+~Python~
 
 [PyMC(Python for Bayesian Econometrics)](https://pymc-devs.github.io/pymc/)
 
