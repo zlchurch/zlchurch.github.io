@@ -22,7 +22,7 @@ Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpres
 
 Jason Hartline: [Mechanism design approximation (lecture notes)](http://jasonhartline.com/MDnA/)
 
-Tim Roughgarden: [Algorithmic game theory](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced Mechanism Design (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
+Tim Roughgarden: [Algorithmic game theory (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced Mechanism Design (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
 Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lecture notes)](http://econweb.ucsd.edu/~vcrawfor/index.html#Courses)
 
@@ -45,9 +45,9 @@ Kenneth Train: [Discrete choice methods with simulation (lecture notes)](http://
 Bruce Hansen: [Econometrics (open access book)](http://www.ssc.wisc.edu/~bhansen/econometrics/)
 
 
-Kevin Sheppard: [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
+Kevin Sheppard: [Python for econometrics (open access book)](https://www.kevinsheppard.com/Python_for_Econometrics)
 
-Bryan Graham: [Econometrics for social networks(lecture notes)](https://github.com/bryangraham/short_courses)    
+Bryan Graham: [Econometrics for social networks (lecture notes)](https://github.com/bryangraham/short_courses)    
 
 [A Repository of Papers that Bring Machine Learning into Economics and Econometrics](http://econ-neural.net/)
 
@@ -59,15 +59,15 @@ Bryan Graham: [Econometrics for social networks(lecture notes)](https://github.c
 
 
 
-Francis Su: [Real analysis(lecture video)](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
+Francis Su: [Real analysis (lecture video)](https://www.youtube.com/playlist?list=PL0E754696F72137EC)
 
-Stephen Boyd: [Convex analysis(lecture video)](http://web.stanford.edu/~boyd/cvxbook/)
+Stephen Boyd: [Convex analysis (lecture video)](http://web.stanford.edu/~boyd/cvxbook/)
 
-Efe A. Ok: [Topology, mathematical analysis, probability and order theory(lecture video)](https://sites.google.com/a/nyu.edu/efeok/books)
+Efe A. Ok: [Topology, mathematical analysis, probability and order theory (lecture notes)](https://sites.google.com/a/nyu.edu/efeok/books)
 
-Sergei Treil: [Linear Algebra Done Wrong (open access)](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
+Sergei Treil: [Linear Algebra Done Wrong (open access book)](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
 
-Rakesh V. Vohra: [Submodularity and discrete convexity(lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)
+Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)
 
 ------
 
@@ -91,23 +91,17 @@ Rakesh V. Vohra: [Submodularity and discrete convexity(lecture notes)](https://d
 
 [Wolfram Demonstrations Projects](http://demonstrations.wolfram.com/)
 
-[Mathematica €‚Programming:â€‚an Advanced Introduction](http://www.mathprogramming-intro.org/)
-
-[Mathematica for Prediction Algorithemâ€‚](https://mathematicaforprediction.wordpress.com/)
+[Mathematica  Programming: an Advanced Introduction](http://www.mathprogramming-intro.org/)
 
 [Wolfram Dicussion Forum](http://community.wolfram.com/)
 
 [Mathematica for Prediction Algorithms](https://mathematicaforprediction.wordpress.com/)
 
-[StackExchangeâ€“Mathematica](http://mathematica.stackexchange.com/)
+[StackExchange Mathematica](http://mathematica.stackexchange.com/)
 
 <u>Python</u>
 
-[PyMC(Python for Bayesian Econometrics)](https://pymc-devs.github.io/pymc/)
-
 [Computer Science for All with Python](https://www.cs.hmc.edu/csforall/)
-
-[Natural Language Processing with Python](http://www.nltk.org/book/)
 
 [Doing mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook)
 
