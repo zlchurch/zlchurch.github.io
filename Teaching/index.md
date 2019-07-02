@@ -1,5 +1,5 @@
 ---
-title: Teaching.Haihan Yu
+title: Teaching
 layout: default
 ---
 
