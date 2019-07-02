@@ -10,9 +10,7 @@
 
 [General Equilibrium Analysis]("/Teaching/consumer.pdf")  
 
-[Choice under Uncertainty]("/Teaching/consumer.pdf")		 	
-
-​			 			 		
+[Choice under Uncertainty]("/Teaching/consumer.pdf")		 	  
 
 **Matching and Market Design (Graduate Course)**
 
