@@ -1,6 +1,6 @@
+-----
 **Advanced Microeconomic Theory I (Graduate Course)**
-
-
+-----
 
 [Theory of Consumer]("/Teaching/consumer.pdf")  
 
@@ -10,11 +10,14 @@
 
 [General Equilibrium Analysis]("/Teaching/consumer.pdf")  
 
-[Choice under Uncertainty]("/Teaching/consumer.pdf")		 	  
+[Choice under Uncertainty]("/Teaching/consumer.pdf")	     
+
+
+
+-----
 
 **Matching and Market Design (Graduate Course)**
-
-
+-----
 
 [Two-sided Matching]("/Teaching/consumer.pdf")  
 
