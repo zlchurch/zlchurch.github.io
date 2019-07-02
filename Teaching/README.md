@@ -1,5 +1,9 @@
+---
+title: Teaching.Haihan Yu
+layout: default
+---
 
-**Advanced Microeconomic Theory I (Graduate Course)**
+Advanced Microeconomic Theory I (Graduate Course)**
 
 
 
