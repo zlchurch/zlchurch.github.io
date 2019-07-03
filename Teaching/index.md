@@ -26,7 +26,6 @@
 
 [One-sided Matching]("/Teaching/consumer.pdf")  
 
-[School Choice]("/Teaching/consumer.pdf")
 
 
 -----
