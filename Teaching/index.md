@@ -1,5 +1,7 @@
 -----
+
 **Advanced Microeconomic Theory I (Graduate Course)**
+
 -----
 
 [Theory of Consumer]("/Teaching/consumer.pdf")  
@@ -16,7 +18,8 @@
 
 -----
 
-**Matching and Market Design (Graduate Course)**
+**Matching and Market Design (Graduate Course)** 
+
 -----
 
 [Two-sided Matching]("/Teaching/consumer.pdf")  
@@ -26,6 +29,13 @@
 [School Choice]("/Teaching/consumer.pdf")
 
 
+-----
+
+**Miscellaneous Lecture Notes**
+
+-----
+
+[Introduction to Level-K Thinking]("Teaching/levelk")
 
 
 
