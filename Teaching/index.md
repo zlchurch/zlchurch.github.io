@@ -4,15 +4,15 @@
 
 -----
 
-[Theory of Consumer]("/Teaching/consumer.pdf")  
+[Theory of Consumer]("/Teaching/micro/consumer.pdf")  
 
-[Theory of Producer]("/Teaching/consumer.pdf")  
+[Theory of Producer]("/Teaching/micro/consumer.pdf")  
 
-[Competitive Markets and Partial Equilibrium Analysis]("/Teaching/consumer.pdf")  
+[Competitive Markets and Partial Equilibrium Analysis]("/Teaching/micro/consumer.pdf")  
 
-[General Equilibrium Analysis]("/Teaching/consumer.pdf")  
+[General Equilibrium Analysis]("/Teaching/micro/consumer.pdf")  
 
-[Choice under Uncertainty]("/Teaching/consumer.pdf")	     
+[Choice under Uncertainty]("/Teaching/micro/consumer.pdf")	     
 
 
 
@@ -22,9 +22,9 @@
 
 -----
 
-[Two-sided Matching]("/Teaching/consumer.pdf")  
+[Two-sided Matching]("/Teaching/micro/consumer.pdf")  
 
-[One-sided Matching]("/Teaching/consumer.pdf")  
+[One-sided Matching]("/Teaching/micro/consumer.pdf")  
 
 
 
@@ -34,7 +34,7 @@
 
 -----
 
-[Introduction to Level-K Thinking]("Teaching/levelk")
+[Introduction to Level-K Thinking]("Teaching/micro/levelk")
 
 
 
