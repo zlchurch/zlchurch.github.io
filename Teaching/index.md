@@ -24,7 +24,9 @@
 
 [Two-sided Matching]("/Teaching/micro/consumer.pdf")  
 
-[One-sided Matching]("/Teaching/micro/consumer.pdf")  
+[One-sided Matching]("/Teaching/micro/consumer.pdf")    
+
+[Random Assignment Mechanism]("Teaching/matching/RSM.pdf")
 
 
 
