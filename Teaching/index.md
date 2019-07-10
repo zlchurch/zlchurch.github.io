@@ -36,7 +36,7 @@
 
 -----
 
-[Introduction to Level-K Thinking]("Teaching/micro/level_k.pdf")
+[Introduction to Level-K Thinking](/micro/level_k.pdf)
 
 
 
