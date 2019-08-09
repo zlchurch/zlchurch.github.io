@@ -1,3 +1,8 @@
+---
+title: Teaching
+layout: default
+---
+
 -----
 
 **Advanced Microeconomic Theory I (Graduate Course)**
