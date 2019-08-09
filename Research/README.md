@@ -1,5 +1,5 @@
---- 
+---
 title: Research
-layout: default 
---- 
+layout: default
+---
 
