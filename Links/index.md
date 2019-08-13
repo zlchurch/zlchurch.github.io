@@ -27,7 +27,7 @@ Noam Nisan: [Computational game theory (lecture notes)](https://hujiamd.wordpres
 
 Jason Hartline: [Mechanism design approximation (lecture notes)](http://jasonhartline.com/MDnA/)
 
-Tim Roughgarden: [Algorithmic game theory (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced Mechanism Design (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
+Tim Roughgarden: [Algorithmic game theory (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4);   [Advanced mechanism design (lecture video)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
 
 Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lecture notes)](http://econweb.ucsd.edu/~vcrawfor/index.html#Courses)
 
@@ -41,7 +41,7 @@ Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campu
 
 ------
 
-Paul Shrimpf: [Empirical industrial organizationst (lecture notes)](http://faculty.arts.ubc.ca/pschrimpf/565/565.html)
+Paul Shrimpf: [Empirical industrial organizations (lecture notes)](http://faculty.arts.ubc.ca/pschrimpf/565/565.html)
 
 Victor Aguirregabiria: [Structural econometrics for industrial organizations (lecture notes)](http://individual.utoronto.ca/vaguirre/courses/barcelona/teaching_io_bgse.html)
 
@@ -70,7 +70,7 @@ Stephen Boyd: [Convex analysis (lecture video)](http://web.stanford.edu/~boyd/cv
 
 Efe A. Ok: [Topology, mathematical analysis, probability and order theory (lecture notes)](https://sites.google.com/a/nyu.edu/efeok/books)
 
-Sergei Treil: [Linear Algebra Done Wrong (open access book)](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
+Sergei Treil: [Linear algebra done wrong (open access book)](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
 
 Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)
 
@@ -80,9 +80,9 @@ Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://
 
 ------
 
-[Probabilistic Model of Cognition](https://probmods.org/)
+[Probabilistic model of cognition](https://probmods.org/)
 
-[Probability and Causality in Human Cognition](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-916-a-probability-and-causality-in-human-cognition-spring-2003/)
+[Probability and causality in human cognition](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-916-a-probability-and-causality-in-human-cognition-spring-2003/)
 
 -------
 
@@ -94,19 +94,19 @@ Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://
 
 <u>Mathematica/Wolfram Language</u>
 
-[Wolfram Demonstrations Projects](http://demonstrations.wolfram.com/)
+[Wolfram demonstrations projects](http://demonstrations.wolfram.com/)
 
-[Mathematica  Programming: an Advanced Introduction](http://www.mathprogramming-intro.org/)
+[Mathematica  programming: an advanced introduction](http://www.mathprogramming-intro.org/)
 
-[Wolfram Dicussion Forum](http://community.wolfram.com/)
+[Wolfram discussion forum](http://community.wolfram.com/)
 
-[Mathematica for Prediction Algorithms](https://mathematicaforprediction.wordpress.com/)
+[Mathematica for prediction algorithms](https://mathematicaforprediction.wordpress.com/)
 
 [StackExchange Mathematica](http://mathematica.stackexchange.com/)
 
 <u>Python</u>
 
-[Computer Science for All with Python](https://www.cs.hmc.edu/csforall/)
+[Computer science for all with Python](https://www.cs.hmc.edu/csforall/)
 
 [Doing mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook)
 
@@ -118,18 +118,18 @@ Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://
 
 
 
-[Savage Minds](http://savageminds.org/)
+[Savage minds](http://savageminds.org/)
 
-[A Fine Theorem](https://afinetheorem.wordpress.com/)
+[A fine theorem](https://afinetheorem.wordpress.com/)
 
-[Confessions of a Supply-Side Liberal](http://blog.supplysideliberal.com/)
+[Confessions of a supply-side liberal](http://blog.supplysideliberal.com/)
 
-[Logic Matthers](http://www.logicmatters.net/blogfront/)
+[Logic matthers](http://www.logicmatters.net/blogfront/)
 
-[Cheap Talk](https://cheaptalk.org/)
+[Cheap talk](https://cheaptalk.org/)
 
-[The Leisure of the Theory Class](https://theoryclass.wordpress.com/)
+[The leisure of the theory class](https://theoryclass.wordpress.com/)
 
-[Market Design](http://marketdesigner.blogspot.com/)
+[Market design](http://marketdesigner.blogspot.com/)
 
-[Mind Hacks](https://mindhacks.com/)
+[Mind hacks](https://mindhacks.com/)
