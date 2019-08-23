@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Tag Cloud"
+title: Tag Cloud
 permalink: "/tags/"
-description: "Browse website by tag based index"
+layout: page
+description: Browse website by tag based index
 comments: false
 sitemap: false
 category: base

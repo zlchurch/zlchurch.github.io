@@ -1,21 +1,20 @@
 ---
-layout: page
-permalink: /contact/
 title: Contact
+permalink: "/contact/"
+layout: page
 show_meta: false
-published: true
-description: "Contact example.com"
+description: Contact example.com
 comments: false
 mathjax: false
 noindex: false
 sitemap:
-    priority: 0.5
-    changefreq: 'monthly'
-    lastmod: 2016-02-13
+  priority: 0.5
+  changefreq: monthly
+  lastmod: 2016-02-13 00:00:00 Z
 tags:
-  - "foo boo"
-  - "driving directions"
-  - address
+- foo boo
+- driving directions
+- address
 ---
 
 | <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 

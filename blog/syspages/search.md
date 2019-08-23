@@ -1,8 +1,8 @@
 ---
+title: Search
+permalink: "/search/"
 layout: default_minimal
-title: "Search"
-description: "Search"
-permalink: /search/
+description: Search
 sitemap: false
 noindex: true
 nofollow: true

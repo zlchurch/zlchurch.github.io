@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Archive
-description: "Archive"
-permalink: /archive/
+permalink: "/archive/"
+layout: page
+description: Archive
 category: base
 ---
 

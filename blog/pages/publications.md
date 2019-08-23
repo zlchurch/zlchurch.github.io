@@ -1,29 +1,24 @@
 ---
+title: Sample Publications
+permalink: "/about/publications/"
 layout: publ
 category: mypubs
-permalink: /about/publications/
-title: "Sample Publications"
-published: true
-description: "Sample publication page"
+description: Sample publication page
 tags:
-  - papers
-  - articles
-  - research
+- papers
+- articles
+- research
 comments: true
-modified: "2016-02-13"
+modified: '2016-02-13'
 bibtex: "/files/mypubs.bib"
-#bibtex: "http://foo-alternate.com/files/mypubs.bib"
 show_meta: true
 noindex: false
 nofollow: true
 sitemap:
-    priority: 0.5
-    changefreq: 'monthly'
-    lastmod: 2016-02-13
-style: |
-  .container {
-        max-width: 48rem;
-    } 
+  priority: 0.5
+  changefreq: monthly
+  lastmod: 2016-02-13 00:00:00 Z
+style: ".container {\n      max-width: 48rem;\n  } \n"
 ---
 
 {% comment %}

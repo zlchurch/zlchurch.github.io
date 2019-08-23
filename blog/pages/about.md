@@ -1,24 +1,21 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 show_meta: true
-# imagefeature path is relative to images/ directory.
 imagefeature: foo.png
-published: true
-description: "About example.com...."
+description: About example.com....
 category: views
 comments: false
 mathjax: false
 noindex: false
 sitemap:
-    priority: 0.7
-    changefreq: 'monthly'
-    lastmod: 2016-02-13
-# tags will be used as html meta keywords.    
+  priority: 0.7
+  changefreq: monthly
+  lastmod: 2016-02-13 00:00:00 Z
 tags:
-  - "foo boo"
-  - "city tx"
+- foo boo
+- city tx
 ---
 
 <div class="post-author text-center">                       

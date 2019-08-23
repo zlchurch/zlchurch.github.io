@@ -1,13 +1,14 @@
 ---
+title: Search
+permalink: "/cse/"
 layout: default_minimal
-title: "Search"
-description: "Search"
-permalink: /cse/
+description: Search
 sitemap: false
 noindex: true
 nofollow: true
 category: base
 ---
+
 {:.text-center}
 You may also visit [tags]({{ site.url }}/tags) or [archive]({{ site.url }}/archive) page to browse website contents.
 

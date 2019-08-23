@@ -1,9 +1,11 @@
 ---
+title: README - How to set up lanyon-plus jekyll theme
+permalink: "/readme/"
 layout: page
-permalink: /readme/
-title: "README - How to set up lanyon-plus jekyll theme"
-description: "README for setting up lanyon-plus jekyll theme on github pages or custom domain having static website"
+description: README for setting up lanyon-plus jekyll theme on github pages or custom
+  domain having static website
 ---
+
 {% raw %}
 ## lanyon-plus
 

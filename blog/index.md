@@ -1,8 +1,8 @@
 ---
-layout: default
-permalink: index.html
 title: Personal Homepage of foo boo
-description: "Blogging on ...."
+permalink: index.html
+layout: default
+description: Blogging on ....
 ---
 
 ## [lanyon-plus](https://github.com/dyndna/lanyon-plus)

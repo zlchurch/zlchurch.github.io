@@ -1,30 +1,25 @@
 ---
+title: Articles of interest
+permalink: "/about/aoi/"
 layout: publ
 category: myaoi
-permalink: /about/aoi/
-title: "Articles of interest"
-published: true
-description: "Sample page showing bookmarked papers"
+description: Sample page showing bookmarked papers
 tags:
-  - papers
-  - articles
-  - research
-  - starred
+- papers
+- articles
+- research
+- starred
 comments: true
-modified: "2016-02-13"
+modified: '2016-02-13'
 bibtex: "/files/myaoi.bib"
-#bibtex: "http://foo-alternate.com/files/myaoi.bib"
 show_meta: true
 noindex: false
 nofollow: true
 sitemap:
-    priority: 0.5
-    changefreq: 'monthly'
-    lastmod: 2016-02-13
-style: |
-  .container {
-        max-width: 48rem;
-    } 
+  priority: 0.5
+  changefreq: monthly
+  lastmod: 2016-02-13 00:00:00 Z
+style: ".container {\n      max-width: 48rem;\n  } \n"
 ---
 
 {% comment %}

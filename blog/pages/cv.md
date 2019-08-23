@@ -1,25 +1,21 @@
 ---
-layout: page
-permalink: /cv/
 title: Curriculum Vitae
+permalink: "/cv/"
+layout: page
 category: base
-published: true
-description: "Curriculum Vitae / Resume"
+description: Curriculum Vitae / Resume
 tags:
-  - cv
-  - resume
-  - "foo boo"
+- cv
+- resume
+- foo boo
 comments: false
 imagesummary: foo.png
-modified: "2016-02-13"
+modified: '2016-02-13'
 sitemap:
-    priority: 0.7
-    changefreq: 'monthly'
-    lastmod: 2016-02-13
-style: |
-  .container {
-        max-width: 48rem;
-    } 
+  priority: 0.7
+  changefreq: monthly
+  lastmod: 2016-02-13 00:00:00 Z
+style: ".container {\n      max-width: 48rem;\n  } \n"
 ---
 
 <span class="social-icons">

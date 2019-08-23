@@ -1,34 +1,29 @@
 ---
-layout: post
-title: "Example content"
-date: "2013-01-01"
-slug: "example_content"
-description: "Example content from lanyon. If page description is more than 140 words, it will be shown as post summary on home page and blog index else post excerpt will be shown. Same rule is for html meta description: >140 words in description or first 50 words of posts will be shown as summary. Page excerpt supports markdown formatted summary."
-category: 
-  - views
-  - featured
-# tags will also be used as html meta keywords.
+title: Example content
+date: 2013-01-01 00:00:00 Z
+categories:
+- blog
+- views
+- featured
 tags:
-  - examples
-  - common_tag
+- examples
+- common_tag
+layout: post
+description: 'Example content from lanyon. If page description is more than 140 words,
+  it will be shown as post summary on home page and blog index else post excerpt will
+  be shown. Same rule is for html meta description: >140 words in description or first
+  50 words of posts will be shown as summary. Page excerpt supports markdown formatted
+  summary.'
 show_meta: true
 comments: true
 mathjax: true
 gistembed: true
-published: true
 noindex: false
 nofollow: false
-# hide QR code, permalink block while printing.
 hide_printmsg: false
-# show post summary or full post in RSS feed.
 summaryfeed: false
-## for twitter summary card with squared image and page description or page excerpt:
-# imagesummary: foo.png
-## for twitter card with large image:
-# imagefeature: "http://img.youtube.com/vi/VEIrQUXm_hY/0.jpg"
-## for twitter video card: (active for this page)
-videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
-imagefeature: "http://img.youtube.com/vi/iG9CE55wbtY/0.jpg"
+videofeature: https://www.youtube.com/embed/iG9CE55wbtY
+imagefeature: http://img.youtube.com/vi/iG9CE55wbtY/0.jpg
 videocredit: tedtalks
 ---
 

@@ -1,12 +1,13 @@
 ---
-layout: page
 title: Featured Posts
-description: "Featured posts"
-permalink: /featured/
+permalink: "/featured/"
+layout: page
+description: Featured posts
 sitemap: false
 noindex: true
 category: base
 ---
+
 <hr class="gh">
 <div class="posts">
   {% for post in site.categories.featured %}
