@@ -33,7 +33,9 @@ Vincent P. Crawford [Game theory, microeconomics and behavioral economics (lectu
 
 Aldo Rustichini: [Game theory and economics (lecture notes)](https://sites.google.com/site/aldorustichini/home/aldo-rustichini-teaching-university-of-minnesota)
 
-Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campuspress.yale.edu/dirkbergemann/teaching/)
+Dirk Bergemann: [Mechanism design and computation (lecture notes)](https://campuspress.yale.edu/dirkbergemann/teaching/). 
+
+Felix Munoz-Garcia: [Game theory and advanced microeconomics (lecture note)](https://felixmunozgarcia.com/teaching/)
 
 ------
 
@@ -54,7 +56,7 @@ Kevin Sheppard: [Python for econometrics (open access book)](https://www.kevinsh
 
 Bryan Graham: [Econometrics for social networks (lecture notes)](https://github.com/bryangraham/short_courses)    
 
-[A Repository of Papers that Bring Machine Learning into Economics and Econometrics](http://econ-neural.net/)
+[A repository of papers that bring machine learning into economics and Econometrics](http://econ-neural.net/)
 
 ------
 
