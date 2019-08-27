@@ -9,7 +9,10 @@ layout: default
 
 -----
 
-[Lecture 1: Introduction]()
+[Lecture 1: Introduction](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture01.pdf)  
+[Lecture 2: Introduction](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture02.pdf)  
+    
+    
 
 
 -----
