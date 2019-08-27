@@ -9,7 +9,7 @@ layout: default
 
 -----
 
-
+[Lecture 1: Introduction]()
 
 
 -----
@@ -52,5 +52,5 @@ layout: default
 
 -----
 
-[Introduction to Level-K Thinking](teaching/micro/level_k.pdf)
+[Introduction to Level-K Thinking](https://github.com/haihan/haihan.github.io/raw/master/teaching/micro/Level_k.pdf)
 
