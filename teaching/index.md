@@ -9,8 +9,8 @@ layout: default
 
 -----
 
-[Lecture 1: Introduction](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromarketdesign/lecture01.pdf)  
-[Lecture 2: Introduction](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture02.pdf)  
+[Introduction](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromarketdesign/lecture01.pdf)  
+[Fundamentals of Auction Theory](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture02.pdf)  
     
     
 
