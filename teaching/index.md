@@ -14,7 +14,6 @@ layout: default
     
     
 
-
 -----
 
 **Advanced Microeconomic Theory (Graduate Course)** 
