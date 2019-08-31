@@ -3,22 +3,21 @@ title: Teaching
 layout: default
 ---
 
------
+
 
 **Introduction to Auction and Matching (Undergraduate Course)** 
 
------
+
 
 [Introduction](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromarketdesign/lecture01.pdf)  
-[Fundamentals of Auction Theory](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture02.pdf)  
-    
+[Fundamentals of Auction Theory](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture02.pdf)    
+
+
     
 
------
 
 **Advanced Microeconomic Theory (Graduate Course)** 
 
------
 
 
 
@@ -34,11 +33,11 @@ layout: default
 
 
 
------
+
 
 **Matching and Market Design (Graduate Course)** 
 
------
+
 
 [Two-sided Matching]("/Teaching/micro/consumer.pdf")  
 
@@ -48,11 +47,11 @@ layout: default
 
 
 
------
+
 
 **Miscellaneous Lecture Notes**
 
------
+
 
 [Introduction to Level-K Thinking](https://github.com/haihan/haihan.github.io/raw/master/teaching/micro/Level_k.pdf)
 
