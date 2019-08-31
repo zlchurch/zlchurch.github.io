@@ -25,7 +25,9 @@ layout: default
   
 [One-to-One Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching03.pdf)         
   
-[Probabilistic assignment](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
+[Probabilistic Assignment](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
+
+[School Choice](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
 
 
 
