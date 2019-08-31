@@ -3,8 +3,6 @@ title: Teaching
 layout: default
 ---
 
-
-
 **Introduction to Auction and Matching (Undergraduate Course)** 
 
 
