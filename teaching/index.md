@@ -4,6 +4,7 @@ layout: default
 ---
 
 **Auction Theory (Undergraduate Course)** 
+-----
 
 
 
@@ -13,18 +14,23 @@ layout: default
 ](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture03.pdf)    
 
 
-  **Auction Theory (Undergraduate Course)** 
+  **Theory of Applications of Matching (Undergraduate Course)** 
+-----
 
 
 
-[Basic Model of Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching01.pdf)       
-
-
-
+[Basic Model of Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching01.pdf)         
+  
+[Many-to-One Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching02.pdf)       
+  
+[One-to-One Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching03.pdf)         
+  
+[Probabilistic assignment](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
 
 
 
 **Advanced Microeconomic Theory (Graduate Course)** 
+-----
 
 
 
@@ -44,6 +50,7 @@ layout: default
 
 
 **Matching and Market Design (Graduate Course)** 
+-----
 
 
 
