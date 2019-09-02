@@ -8,12 +8,12 @@ layout: default
 
 
 [Introduction](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromarketdesign/lecture01.pdf)    
-  
+
 [Fundamentals of Auction Theory](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture02.pdf)        
-  
+
 [The Vickrey-Clarke-Groves Mechanism
-](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture03.pdf)  
-  
+](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture03.pdf)
+
 [Application: e-commerce
 ](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture04.pdf)    
 
@@ -24,11 +24,11 @@ layout: default
 
 
 [Basic Model of Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching01.pdf)         
-  
+
 [Many-to-One Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching02.pdf)       
-  
+
 [One-to-One Matching](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching03.pdf)         
-  
+
 [Probabilistic Assignment](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
 
 [School Choice](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
