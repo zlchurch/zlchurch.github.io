@@ -3,7 +3,7 @@ title: Teaching
 layout: default
 ---
 
-**Auction Theory ** 
+**Auction Theory **
 
 
 
@@ -19,7 +19,7 @@ layout: default
 ](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture04.pdf)    
 
 
-  **Theory and Applications of Matching ** 
+  **Theory and Applications of Matching **
 
 
 
@@ -36,7 +36,7 @@ layout: default
 
 
 
-**Advanced Microeconomic Theory ** 
+**Advanced Microeconomic Theory **
 
 
 
