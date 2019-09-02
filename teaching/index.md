@@ -3,7 +3,7 @@ title: Teaching
 layout: default
 ---
 
-**Auction Theory (Undergraduate Course)** 
+**Auction Theory ** 
 
 
 
@@ -19,7 +19,7 @@ layout: default
 ](https://github.com/haihan/haihan.github.io/blob/master/teaching/intromarketdesign/lecture04.pdf)    
 
 
-  **Theory and Applications of Matching (Undergraduate Course)** 
+  **Theory and Applications of Matching ** 
 
 
 
@@ -36,7 +36,7 @@ layout: default
 
 
 
-**Advanced Microeconomic Theory (Graduate Course)** 
+**Advanced Microeconomic Theory ** 
 
 
 
@@ -51,22 +51,6 @@ layout: default
 [General Equilibrium Analysis]("/Teaching/micro/consumer.pdf")  
 
 [Choice under Uncertainty]("/Teaching/micro/consumer.pdf")	     
-
-
-
-
-
-**Matching and Market Design (Graduate Course)** 
-
-
-
-
-[Two-sided Matching]("/Teaching/micro/consumer.pdf")  
-
-[One-sided Matching]("/Teaching/micro/consumer.pdf")    
-
-[Random Assignment Mechanism]("Teaching/matching/RSM.pdf")
-
 
 
 
