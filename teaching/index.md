@@ -30,7 +30,7 @@ layout: default
 
 [Probabilistic Assignment](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
 
-[School Choice](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching04.pdf)     
+[School Choice](https://github.com/haihan/haihan.github.io/raw/master/teaching/intromatching/matching05.pdf)     
 
 
 
