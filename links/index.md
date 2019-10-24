@@ -74,7 +74,11 @@ Efe A. Ok: [Topology, mathematical analysis, probability and order theory (lectu
 
 Sergei Treil: [Linear algebra done wrong (open access book)](http://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
 
-Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)
+Rakesh V. Vohra: [Submodularity and discrete convexity (lecture notes)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxxdWFlcmVyZXZlcnVtOXxneDo2YjM0ZmZmYjIxYzUwMWY)   
+
+Jay Cummings: [Long-form mathematics  (webpage)](https://longformmath.com)  
+
+
 
 ------
 
