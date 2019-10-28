@@ -3,7 +3,7 @@ title: 主日证道
 layout: default
 ---
 
-# 基要真理
+## 基要真理
 
 [第一讲：圣经](https://www.dropbox.com/s/gneefu7fe0x5wfb/01%E5%9F%BA%E6%9C%AC%E6%95%99%E4%B9%89-%E5%9C%A3%E7%BB%8F.m4a?dl=0)  
 
