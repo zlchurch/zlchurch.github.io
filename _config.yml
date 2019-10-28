@@ -1,5 +1,5 @@
 ---
-title: Haihan Yu
+title: 福冈锡安华人宣道会早良堂
 timezone: UTC
 collections:
   posts:
@@ -8,6 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Haihan Yu(余海晗)
+name: 福冈锡安华人宣道会早良堂
 markdown: kramdown
 permalink: "/blog/:year/:month/:day/:title"
