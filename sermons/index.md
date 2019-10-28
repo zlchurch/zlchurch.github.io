@@ -7,7 +7,7 @@ layout: default
 
 [第一讲：圣经](https://github.com/zlchurch/zlchurch.github.io/blob/master/audio/fundamentals/01基本教义-圣经.m4a?raw=true)  
 
-[第二讲:上帝](https://github.com/zlchurch/zlchurch.github.io/blob/master/audio/fundamentals/02基本教义-启示.m4a?raw=true)  
+[第二讲：上帝](https://github.com/zlchurch/zlchurch.github.io/blob/master/audio/fundamentals/02基本教义-启示.m4a?raw=true)  
 
 [第三讲：三位一体](https://github.com/zlchurch/zlchurch.github.io/blob/master/audio/fundamentals/03基本教义-三一神.m4a?raw=true)
 
