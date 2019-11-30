@@ -15,6 +15,8 @@ layout: default
 
 [第五讲：圣灵 a](https://www.dropbox.com/s/ub0b0r5u5aeitp8/05%20%E5%9F%BA%E6%9C%AC%E6%95%99%E4%B9%89-%E5%9C%A3%E7%81%B501.m4a?dl=0) [b](https://www.dropbox.com/s/zufhsvf2kxml9lb/06%E5%9F%BA%E6%9C%AC%E6%95%99%E4%B9%89-%E5%9C%A3%E7%81%B502.m4a?dl=0)  
 
-[第六讲：人论（我是谁？） a](https://www.dropbox.com/s/830fmy36gtkmg0g/07%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F.m4a?dl=0) [b](https://www.dropbox.com/s/3ah5y11nojed66c/08%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F.m4a?dl=0)
+[第六讲：人论（我是谁？） a](https://www.dropbox.com/s/830fmy36gtkmg0g/07%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F.m4a?dl=0) [b](https://www.dropbox.com/s/3ah5y11nojed66c/08%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F.m4a?dl=0)  
+
+[第七讲：信主真义 a](https://www.dropbox.com/s/2qho965a6bd7ncq/09%E4%BF%A1%E4%B8%BB%E7%9C%9F%E8%B0%9B%20a.m4a?dl=0) [b](https://www.dropbox.com/s/xyo890wxkh0rhdi/10%E4%BF%A1%E4%B8%BB%E7%9C%9F%E8%B0%9Bb.m4a?dl=0)
 
 
