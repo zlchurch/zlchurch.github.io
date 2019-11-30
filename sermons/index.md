@@ -18,7 +18,11 @@ layout: default
 [第六讲：人论（我是谁？） a](https://www.dropbox.com/s/830fmy36gtkmg0g/07%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F.m4a?dl=0) [b](https://www.dropbox.com/s/3ah5y11nojed66c/08%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F.m4a?dl=0)  
 
 [第七讲：信主真义 a](https://www.dropbox.com/s/2qho965a6bd7ncq/09%E4%BF%A1%E4%B8%BB%E7%9C%9F%E8%B0%9B%20a.m4a?dl=0) [b](https://www.dropbox.com/s/xyo890wxkh0rhdi/10%E4%BF%A1%E4%B8%BB%E7%9C%9F%E8%B0%9Bb.m4a?dl=0)  
-  
+
+
+
+
+
 ##门徒培训
 
 
