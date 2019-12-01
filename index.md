@@ -3,6 +3,15 @@ title: 福冈华人宣道会早良堂
 layout: default
 ---
 <center><h1>福冈华人宣道会早良堂</h1></center>
+
+
+
+![WechatIMG81](/Users/haihan/Downloads/WechatIMG81.jpeg)
+
+
+
+
+
 <h3>聚会时间</h3>
 
 每周六上午11:00（基要真理学习）
