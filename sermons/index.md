@@ -21,7 +21,11 @@ layout: default
 
 
 
-## 门徒培训
+## 门徒培训  
+
+[天子门生 a](https://www.dropbox.com/s/z4539c40jn2o9x0/%E5%A4%A9%E5%AD%90%E9%97%A8%E7%94%9F01.mp3?dl=0) [b](https://www.dropbox.com/s/ujd4gbzi8uoqkdi/%E5%A4%A9%E5%AD%90%E9%97%A8%E7%94%9F2.mp3?dl=0)
+
+
 
 
 
