@@ -1,5 +1,5 @@
 ---
-title: 主日证道
+title: 福音信息
 layout: default
 ---
 
