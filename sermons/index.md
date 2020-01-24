@@ -23,7 +23,7 @@ layout: default
 
 ## 门徒培训  
 
-[天子门生 a](https://www.dropbox.com/s/z4539c40jn2o9x0/%E5%A4%A9%E5%AD%90%E9%97%A8%E7%94%9F01.mp3?dl=0) [b](https://www.dropbox.com/s/ujd4gbzi8uoqkdi/%E5%A4%A9%E5%AD%90%E9%97%A8%E7%94%9F2.mp3?dl=0) [c](https://www.dropbox.com/s/kzfblmhote0wfyn/15%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E4%BA%B2%E5%AD%90.m4a?dl=0)[]
+[天子门生 a](https://www.dropbox.com/s/z4539c40jn2o9x0/%E5%A4%A9%E5%AD%90%E9%97%A8%E7%94%9F01.mp3?dl=0) [b](https://www.dropbox.com/s/ujd4gbzi8uoqkdi/%E5%A4%A9%E5%AD%90%E9%97%A8%E7%94%9F2.mp3?dl=0) [c](https://www.dropbox.com/s/kzfblmhote0wfyn/15%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E4%BA%B2%E5%AD%90.m4a?dl=0)[d](https://www.dropbox.com/s/kdj3xkhuioc4s27/16%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E6%95%99%E4%BC%9A.m4a?dl=0)
 
 
 
