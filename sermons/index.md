@@ -19,7 +19,7 @@ layout: default
 
 [第七讲：信主真意 a](https://www.dropbox.com/s/2qho965a6bd7ncq/09%E4%BF%A1%E4%B8%BB%E7%9C%9F%E8%B0%9B%20a.m4a?dl=0) [b](https://www.dropbox.com/s/xyo890wxkh0rhdi/10%E4%BF%A1%E4%B8%BB%E7%9C%9F%E8%B0%9Bb.m4a?dl=0)  
 
-[第八讲：信主见证 a](https://www.dropbox.com/s/5d9nhbu488ey2wx/信主见证a.m4a?dl=0) [b](https://www.dropbox.com/s/ptbo2ch99o68yv6/信主见证b.m4a?dl=0) [c](https://www.dropbox.com/s/kzfblmhote0wfyn/15%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E4%BA%B2%E5%AD%90.m4a?dl=0)[d](https://www.dropbox.com/s/kdj3xkhuioc4s27/16%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E6%95%99%E4%BC%9A.m4a?dl=0)  
+[第八讲：信主见证 a](https://www.dropbox.com/s/5d9nhbu488ey2wx/信主见证a.m4a?dl=0) [b](https://www.dropbox.com/s/ptbo2ch99o68yv6/信主见证b.m4a?dl=0) [c](https://www.dropbox.com/s/kzfblmhote0wfyn/15%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E4%BA%B2%E5%AD%90.m4a?dl=0)  [d](https://www.dropbox.com/s/kdj3xkhuioc4s27/16%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E6%95%99%E4%BC%9A.m4a?dl=0)  
 
 
 ## 门徒培训  
