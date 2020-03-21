@@ -21,7 +21,7 @@ layout: default
 
 [第八讲：信主见证 a](https://www.dropbox.com/s/5d9nhbu488ey2wx/信主见证a.m4a?dl=0) [b](https://www.dropbox.com/s/ptbo2ch99o68yv6/信主见证b.m4a?dl=0) [c](https://www.dropbox.com/s/kzfblmhote0wfyn/15%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E4%BA%B2%E5%AD%90.m4a?dl=0)  [d](https://www.dropbox.com/s/kdj3xkhuioc4s27/16%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E6%95%99%E4%BC%9A.m4a?dl=0)    
   
-[第九讲：教会论 a](https://www.dropbox.com/s/vydth89kut2qwej/17%E4%BD%95%E4%B8%BA%E6%95%99%E4%BC%9A.m4a?dl=0) [b](https://www.dropbox.com/s/sehvrw199avifgj/18%E6%95%99%E4%BC%9A%E7%94%9F%E6%B4%BB.m4a?dl=0) [c](https://www.dropbox.com/s/ddmvdqw95jzjmx4/19%E6%95%99%E4%BC%9A%26%E5%9C%A3%E7%81%B5%28%E5%BE%92%E4%B8%801-14%29.m4a?dl=0)
+[第九讲：教会论 a](https://www.dropbox.com/s/vydth89kut2qwej/17%E4%BD%95%E4%B8%BA%E6%95%99%E4%BC%9A.m4a?dl=0) [b](https://www.dropbox.com/s/sehvrw199avifgj/18%E6%95%99%E4%BC%9A%E7%94%9F%E6%B4%BB.m4a?dl=0) [c](https://www.dropbox.com/s/ddmvdqw95jzjmx4/19%E6%95%99%E4%BC%9A%26%E5%9C%A3%E7%81%B5%28%E5%BE%92%E4%B8%801-14%29.m4a?dl=0) [d](https://www.dropbox.com/s/bxctz1nd3q6boym/20%E6%95%99%E4%BC%9A%26%E5%90%8C%E5%BF%83%28%E5%BE%92%E4%B8%8012-14%29.m4a?dl=0)
 
 
 ## 门徒培训  
