@@ -21,7 +21,13 @@ layout: default
 
 [第八讲：信主见证 a](https://www.dropbox.com/s/5d9nhbu488ey2wx/信主见证a.m4a?dl=0) [b](https://www.dropbox.com/s/ptbo2ch99o68yv6/信主见证b.m4a?dl=0) [c](https://www.dropbox.com/s/kzfblmhote0wfyn/15%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E4%BA%B2%E5%AD%90.m4a?dl=0)  [d](https://www.dropbox.com/s/kdj3xkhuioc4s27/16%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81-%E6%95%99%E4%BC%9A.m4a?dl=0)    
 
-[第九讲：教会论 a](https://www.dropbox.com/s/vydth89kut2qwej/17%E4%BD%95%E4%B8%BA%E6%95%99%E4%BC%9A.m4a?dl=0) [b](https://www.dropbox.com/s/sehvrw199avifgj/18%E6%95%99%E4%BC%9A%E7%94%9F%E6%B4%BB.m4a?dl=0) [c](https://www.dropbox.com/s/ddmvdqw95jzjmx4/19%E6%95%99%E4%BC%9A%26%E5%9C%A3%E7%81%B5%28%E5%BE%92%E4%B8%801-14%29.m4a?dl=0) [d](https://www.dropbox.com/s/bxctz1nd3q6boym/20%E6%95%99%E4%BC%9A%26%E5%90%8C%E5%BF%83%28%E5%BE%92%E4%B8%8012-14%29.m4a?dl=0) [e](https://www.dropbox.com/s/6grl28cfq07loiz/21%E6%95%99%E4%BC%9A%EF%BC%86%E5%AE%A3%E6%95%991.m4a?dl=0)  [f](https://www.dropbox.com/s/u0otcdav65g12wj/22%E6%95%99%E4%BC%9A%E4%B8%8E%E5%AE%A3%E6%95%992.m4a?dl=0)
+第九讲：教会论
+* [何为教会](https://www.dropbox.com/s/n3ajm78hz0dqg1u/17%E4%BD%95%E4%B8%BA%E6%95%99%E4%BC%9A.m4a?dl=0)   
+* [教会生活](https://www.dropbox.com/s/4cr0aasdxk4sm7c/18%E6%95%99%E4%BC%9A%E7%94%9F%E6%B4%BB.m4a?dl=0) 
+* [教会与圣灵](https://www.dropbox.com/s/dfsow87s9i0m30i/19%E6%95%99%E4%BC%9A%26%E5%9C%A3%E7%81%B5%28%E5%BE%92%E4%B8%801-14%29.m4a?dl=0)
+*  [教会与同心](https://www.dropbox.com/s/i36sh0x6tq3zhtw/20%E6%95%99%E4%BC%9A%26%E5%90%8C%E5%BF%83%28%E5%BE%92%E4%B8%8012-14%29.m4a?dl=0)   
+*  [教会与宣教 a](https://www.dropbox.com/s/zhwx9kq13amnakw/21%E6%95%99%E4%BC%9A%EF%BC%86%E5%AE%A3%E6%95%991.m4a?dl=0)  [b](https://www.dropbox.com/s/y0vhpgbsazrcix1/%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81b.m4a?dl=0) [c](https://www.dropbox.com/s/pqdoisau26dvt8w/23%E6%95%99%E4%BC%9A%EF%BC%86%E5%AE%A3%E6%95%993.m4a?dl=0) [d](https://www.dropbox.com/s/b2fu3h8p0h1nkq5/24%E6%95%99%E4%BC%9A%EF%BC%86%E5%AE%A3%E6%95%994.m4a?dl=0)
+* [教会与慈惠 （林前 8:1-15）](https://www.dropbox.com/s/ap6w64g1cvfmgvr/25%E6%95%99%E4%BC%9A%EF%BC%86%E6%85%88%E6%83%A0%28%E6%9E%97%E5%89%8D%E5%85%AB1-15%29.m4a?dl=0)
 
 
 ## 门徒培训  
