@@ -3,6 +3,10 @@ title: 雅各书
 layout: default
 ---
 
+## 雅各书
+
+###  第一章
+
 [01 神仆的请安 1:1](https://www.dropbox.com/s/hlgs0d0rvcyeog3/01%E7%A5%9E%E4%BB%86%E7%9A%84%E8%AF%B7%E5%AE%89%28%E4%B8%801%29.m4a?dl=0)  
 
 [02 劝勉试炼中的圣徒 1:1-8](https://www.dropbox.com/s/hlgs0d0rvcyeog3/01%E7%A5%9E%E4%BB%86%E7%9A%84%E8%AF%B7%E5%AE%89%28%E4%B8%801%29.m4a?dl=0)  
