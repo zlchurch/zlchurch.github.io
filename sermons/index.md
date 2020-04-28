@@ -1,5 +1,5 @@
 ---
-title: 福音信息
+title: 撒母耳记 下 
 layout: default
 ---
 
