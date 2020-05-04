@@ -37,15 +37,33 @@ layout: default
 
 ### 第二章
 
-[01 偏心待人是犯罪 2:1-4](https://www.dropbox.com/s/l07w5imsbqlnyoh/01%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E6%98%AF%E7%8A%AF%E7%BD%AA%281-4%29.m4a?dl=0)  
+[01 偏心待人是犯罪 2:1-4](https://www.dropbox.com/s/l07w5imsbqlnyoh/01%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E6%98%AF%E7%8A%AF%E7%BD%AA%281-4%29.m4a?dl=0)   
 
-[02 偏心待人的恶果 2:5-7](https://www.dropbox.com/s/67732a9ig7ank4a/02%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E7%9A%84%E6%81%B6%E6%9E%9C%28%E4%BA%8C5-7%29.m4a?dl=0)  
 
-[03 偏心待人与律法 2:8-13](https://www.dropbox.com/s/khogx6po9kzebzi/03%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E4%B8%8E%E5%BE%8B%E6%B3%95%28%E4%BA%8C8-13%29.m4a?dl=0) 
+[02 偏心待人的恶果 2:5-7](https://www.dropbox.com/s/67732a9ig7ank4a/02%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E7%9A%84%E6%81%B6%E6%9E%9C%28%E4%BA%8C5-7%29.m4a?dl=0)    
+
+
+[03 偏心待人与律法 2:8-13](https://www.dropbox.com/s/khogx6po9kzebzi/03%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E4%B8%8E%E5%BE%8B%E6%B3%95%28%E4%BA%8C8-13%29.m4a?dl=0)   
+
 
 [04 死的信心 2:14-20](https://www.dropbox.com/s/9nkdtirihdoam23/04%E4%BF%A1%E5%BF%83%E6%B2%A1%E6%9C%89%E8%A1%8C%E4%B8%BA%E6%98%AF%E6%AD%BB%E7%9A%84%28%E4%BA%8C14-1.m4a?dl=0)  
 
-[05 活的信心 2:20-26](https://www.dropbox.com/s/r6lb290vfesha4m/05%E4%BF%A1%E5%BF%83%E4%B8%8E%E8%A1%8C%E4%B8%BA%E5%B9%B6%E8%A1%8C%E5%BE%97%E6%88%90%E5%85%A8%28%E4%BA%8C20-26%29.m4a?dl=0)
+[05 活的信心 2:20-26](https://www.dropbox.com/s/r6lb290vfesha4m/05%E4%BF%A1%E5%BF%83%E4%B8%8E%E8%A1%8C%E4%B8%BA%E5%B9%B6%E8%A1%8C%E5%BE%97%E6%88%90%E5%85%A8%28%E4%BA%8C20-26%29.m4a?dl=0)  
+
+### 第三章
+[01 言语的力量 3:1-5](https://www.dropbox.com/s/lijxjpq1skjpszu/01%E8%A8%80%E8%AF%AD%E7%9A%84%E5%8A%9B%E9%87%8F%28%E4%B8%891-5%29.m4a?dl=0)   
+
+
+[02 言语的不义 3:6-12](https://www.dropbox.com/s/imq35dstrpeeuwp/02%E8%A8%80%E8%AF%AD%E7%9A%84%E4%B8%8D%E4%B9%89%28%E4%B8%895-12%29.m4a?dl=0)    
+
+
+[03 言语与智慧 3:13](https://www.dropbox.com/s/f5orgb3ycg6ri3b/33%E8%A8%80%E8%AF%AD%E4%B8%8E%E6%99%BA%E6%85%A7%28%E4%B8%8913-18%29%281%29.m4a?dl=0)   
+
+
+[04 假的智慧 3:14-16](https://www.dropbox.com/s/uposej3mqzvhva1/34%E5%81%87%E7%9A%84%E6%99%BA%E6%85%A7%28%E4%B8%8914-16%29.m4a?dl=0)  
+
+
+ [05 真的智慧 3:17-18](https://www.dropbox.com/s/1nm9czir3bsj96p/35%E7%9C%9F%E7%9A%84%E6%99%BA%E6%85%A7%28%E4%B8%8917-18%29.m4a?dl=0)
 
 
 
