@@ -67,3 +67,11 @@ layout: default
 
 
 
+### 第四章
+
+[01 战斗之私欲 4:1-3](https://www.dropbox.com/s/xmo6cyne2h6chs0/41%E6%88%98%E6%96%97%E4%B9%8B%E7%A7%81%E6%AC%B2%EF%BC%88%E5%9B%9B1-3%29.m4a?dl=0)  
+
+[02 认识私欲 4:1-3](https://www.dropbox.com/s/jhxrqmu8ppjuy2c/42%E8%AE%A4%E8%AF%86%E7%A7%81%E6%AC%B2%E7%9A%84%E6%99%BA%E6%85%A7%28%E5%9B%9B1-3%29.m4a?dl=0)  
+
+[03 合神心意的祷告 4:2-3](https://www.dropbox.com/s/airlapdq2i3mvma/43%E5%90%88%E7%A5%9E%E5%BF%83%E6%84%8F%E7%9A%84%E7%A5%B7%E5%91%8A%28%E5%9B%9B2-3%29.m4a?dl=0)
+

@@ -27,8 +27,9 @@ layout: default
 * [教会与圣灵](https://www.dropbox.com/s/dfsow87s9i0m30i/19%E6%95%99%E4%BC%9A%26%E5%9C%A3%E7%81%B5%28%E5%BE%92%E4%B8%801-14%29.m4a?dl=0)
 *  [教会与同心](https://www.dropbox.com/s/i36sh0x6tq3zhtw/20%E6%95%99%E4%BC%9A%26%E5%90%8C%E5%BF%83%28%E5%BE%92%E4%B8%8012-14%29.m4a?dl=0)   
 *  [教会与宣教 a](https://www.dropbox.com/s/zhwx9kq13amnakw/21%E6%95%99%E4%BC%9A%EF%BC%86%E5%AE%A3%E6%95%991.m4a?dl=0)  [b](https://www.dropbox.com/s/y0vhpgbsazrcix1/%E4%BF%A1%E4%B8%BB%E8%A7%81%E8%AF%81b.m4a?dl=0) [c](https://www.dropbox.com/s/pqdoisau26dvt8w/23%E6%95%99%E4%BC%9A%EF%BC%86%E5%AE%A3%E6%95%993.m4a?dl=0) [d](https://www.dropbox.com/s/b2fu3h8p0h1nkq5/24%E6%95%99%E4%BC%9A%EF%BC%86%E5%AE%A3%E6%95%994.m4a?dl=0)
-* [教会与慈惠 （林前 8:1-15）](https://www.dropbox.com/s/ap6w64g1cvfmgvr/25%E6%95%99%E4%BC%9A%EF%BC%86%E6%85%88%E6%83%A0%28%E6%9E%97%E5%89%8D%E5%85%AB1-15%29.m4a?dl=0) [玛3:6-12](https://www.dropbox.com/s/9j4wc9m8htcp0zc/26%E6%95%99%E4%BC%9A%EF%BC%86%E6%85%88%E6%83%A0%28%E7%8E%9B%E4%B8%896-12%29.m4a?dl=0)
+* [教会与慈惠 （林前 8:1-15）](https://www.dropbox.com/s/ap6w64g1cvfmgvr/25%E6%95%99%E4%BC%9A%EF%BC%86%E6%85%88%E6%83%A0%28%E6%9E%97%E5%89%8D%E5%85%AB1-15%29.m4a?dl=0) [玛3:6-12](https://www.dropbox.com/s/9j4wc9m8htcp0zc/26%E6%95%99%E4%BC%9A%EF%BC%86%E6%85%88%E6%83%A0%28%E7%8E%9B%E4%B8%896-12%29.m4a?dl=0)  
 
+[第十讲 末世论 a](https://www.dropbox.com/s/mjojckcxja0ahda/%E4%B8%BB%E5%86%8D%E4%B8%B4%E4%B8%8E%E6%9C%AB%E4%B8%96%E8%AE%BA01.m4a?dl=0)
 
 ## 门徒培训  
 
