@@ -73,5 +73,19 @@ layout: default
 
 [02 认识私欲 4:1-3](https://www.dropbox.com/s/jhxrqmu8ppjuy2c/42%E8%AE%A4%E8%AF%86%E7%A7%81%E6%AC%B2%E7%9A%84%E6%99%BA%E6%85%A7%28%E5%9B%9B1-3%29.m4a?dl=0)  
 
-[03 合神心意的祷告 4:2-3](https://www.dropbox.com/s/airlapdq2i3mvma/43%E5%90%88%E7%A5%9E%E5%BF%83%E6%84%8F%E7%9A%84%E7%A5%B7%E5%91%8A%28%E5%9B%9B2-3%29.m4a?dl=0)
+[03 合神心意的祷告 4:2-3](https://www.dropbox.com/s/airlapdq2i3mvma/43%E5%90%88%E7%A5%9E%E5%BF%83%E6%84%8F%E7%9A%84%E7%A5%B7%E5%91%8A%28%E5%9B%9B2-3%29.m4a?dl=0)  
+
+[04 爱慕世俗是与神为敌 4:4](https://www.dropbox.com/s/oau0dar2ct91v0m/44%E7%88%B1%E6%85%95%E4%B8%96%E4%BF%97%E6%98%AF%E4%B8%8E%E7%A5%9E%E4%B8%BA%E6%95%8C%28%E5%9B%9B4%29.m4a?dl=0)  
+
+[05 忌邪的神 4:5](https://www.dropbox.com/s/7tnt7wvpsmtsywq/45%E5%BF%8C%E9%82%AA%E7%9A%84%E7%A5%9E%28%E5%9B%9B5%29.mp3?dl=0)  
+
+[06 蒙恩之路：向神谦卑](https://www.dropbox.com/s/zbf092mwyjh00wj/46%E8%92%99%E6%81%A9%E5%90%91%E7%A5%9E%E8%B0%A6%E5%8D%91%28%E5%9B%9B6%29.mp3?dl=0)  
+
+[07 抵挡魔鬼 4:7-8](https://www.dropbox.com/s/yv1s0njcfpgntrj/47%E8%B0%A6%E5%8D%91%E5%8A%A1%E8%A6%81%E6%8A%B5%E6%8C%A1%E9%AD%94%E9%AC%BC%28%E5%9B%9B7-8%29.m4a?dl=0)  
+
+[08 亲近神 4:7-8](https://www.dropbox.com/s/9er9twl5dm6mpn9/48%E4%BA%B2%E8%BF%91%E7%A5%9E%E6%8A%B5%E6%8C%A1%E9%AD%94%E9%AC%BC%28%E5%9B%9B7-8%29.m4a?dl=0)  
+
+[09 圣洁度日，为罪哀伤 4:9-10](https://www.dropbox.com/s/jyuiefyz67mriqd/49%E5%9C%A3%E6%B4%81%E5%BA%A6%E6%97%A5%E4%B8%BA%E7%BD%AA%E5%BF%8F%E6%82%94%28%E5%9B%9B8-10%29.m4a?dl=0)   
+
+[10 哀痛与喜乐的智慧 4:9-10](https://www.dropbox.com/s/jyuiefyz67mriqd/49%E5%9C%A3%E6%B4%81%E5%BA%A6%E6%97%A5%E4%B8%BA%E7%BD%AA%E5%BF%8F%E6%82%94%28%E5%9B%9B8-10%29.m4a?dl=0)
 
