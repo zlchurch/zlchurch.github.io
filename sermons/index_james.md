@@ -87,5 +87,7 @@ layout: default
 
 [09 圣洁度日，为罪哀伤 4:9-10](https://www.dropbox.com/s/jyuiefyz67mriqd/49%E5%9C%A3%E6%B4%81%E5%BA%A6%E6%97%A5%E4%B8%BA%E7%BD%AA%E5%BF%8F%E6%82%94%28%E5%9B%9B8-10%29.m4a?dl=0)   
 
-[10 哀痛与喜乐的智慧 4:9-10](https://www.dropbox.com/s/jyuiefyz67mriqd/49%E5%9C%A3%E6%B4%81%E5%BA%A6%E6%97%A5%E4%B8%BA%E7%BD%AA%E5%BF%8F%E6%82%94%28%E5%9B%9B8-10%29.m4a?dl=0)
+[10 哀痛与喜乐的智慧 4:9-10](https://www.dropbox.com/s/jyuiefyz67mriqd/49%E5%9C%A3%E6%B4%81%E5%BA%A6%E6%97%A5%E4%B8%BA%E7%BD%AA%E5%BF%8F%E6%82%94%28%E5%9B%9B8-10%29.m4a?dl=0)  
+
+
 
