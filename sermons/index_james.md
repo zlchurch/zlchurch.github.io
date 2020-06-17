@@ -89,5 +89,25 @@ layout: default
 
 [10 哀痛与喜乐的智慧 4:9-10](https://www.dropbox.com/s/jyuiefyz67mriqd/49%E5%9C%A3%E6%B4%81%E5%BA%A6%E6%97%A5%E4%B8%BA%E7%BD%AA%E5%BF%8F%E6%82%94%28%E5%9B%9B8-10%29.m4a?dl=0)  
 
+[11 反思毁谤人之罪 上 4:11-12](https://www.dropbox.com/s/y11hg7x0u3jmx6a/411%E5%8F%8D%E6%80%9D%E6%AF%81%E8%B0%A4%E4%BA%BA%E4%B9%8B%E7%BD%AA%28%E5%9B%9B11%29.mp3?dl=0)
 
+[12 反思偏待人之罪 下 4:11-12](https://www.dropbox.com/s/y11hg7x0u3jmx6a/411%E5%8F%8D%E6%80%9D%E6%AF%81%E8%B0%A4%E4%BA%BA%E4%B9%8B%E7%BD%AA%28%E5%9B%9B11%29.mp3?dl=0)
+
+[13 寻求神的旨意 上 4:13-17](https://www.dropbox.com/s/y11hg7x0u3jmx6a/411%E5%8F%8D%E6%80%9D%E6%AF%81%E8%B0%A4%E4%BA%BA%E4%B9%8B%E7%BD%AA%28%E5%9B%9B11%29.mp3?dl=0)
+
+[14 寻求神的旨意 下 4:13-17](https://www.dropbox.com/s/gwuifdrbtuharro/414%E5%AF%BB%E6%B1%82%E7%A5%9E%E4%B8%BB%E6%9D%83%E7%9A%84%E6%97%A8%E6%84%8F%28%E5%9B%9B15-17%29.m4a?dl=0)
+
+### 第五章
+
+[01 不可因财富而骄横 一 5:1-6 ](https://www.dropbox.com/s/mofpss0nqu9vbtq/501%E4%B8%8D%E5%8F%AF%E5%9B%A0%E8%B4%A2%E5%AF%8C%E8%80%8C%E9%AA%84%E6%A8%AA%28%E4%BA%941-6%29.m4a?dl=0)
+
+[02 不可因财富而骄横 二 5:1-6](https://www.dropbox.com/s/4b1ryigolxt75t6/502%E5%9B%A4%E7%A7%AF%E6%98%AF%E9%AA%84%E6%A8%AA%E7%9A%84%E7%89%B9%E5%BE%81%28%E4%BA%941-6%29.m4a?dl=0)
+
+[03 不可因财富而骄横 三 5:1-6](https://www.dropbox.com/s/k6qjcspyvw05z2s/503%E8%B7%B5%E8%B8%8F%E5%85%AC%E4%B9%89%E6%98%AF%E9%AA%84%E6%A8%AA%E7%9A%84%E5%AE%9E%E8%B4%A8%28%E4%BA%941-6%29.m4a?dl=0)
+
+[04 不可因财富而骄横 四 5:1-6](https://www.dropbox.com/s/bjsegpyd8jroiul/504%E5%AE%B4%E4%B9%90%E8%83%8C%E9%81%93%E6%98%AF%E9%AA%84%E6%A8%AA%E7%9A%84%E6%81%B6%E6%9E%9C%28%E4%BA%945-6%29.m4a?dl=0)
+
+[05 恒切忍耐的智慧 上 5:7-9](https://www.dropbox.com/s/fczw6imuvf0bers/505%E5%87%AD%E4%BF%A1%E5%BF%83%E6%81%92%E5%88%87%E5%BF%8D%E8%80%90%28%E4%BA%947-9%29.m4a?dl=0)
+
+[06 恒切忍耐的智慧 下 5:7-9](https://www.dropbox.com/s/fczw6imuvf0bers/505%E5%87%AD%E4%BF%A1%E5%BF%83%E6%81%92%E5%88%87%E5%BF%8D%E8%80%90%28%E4%BA%947-9%29.m4a?dl=0)
 
