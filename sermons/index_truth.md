@@ -32,6 +32,7 @@ layout: default
 第十讲 末世论 
 - [主在来和末世论](https://www.dropbox.com/s/mjojckcxja0ahda/%E4%B8%BB%E5%86%8D%E4%B8%B4%E4%B8%8E%E6%9C%AB%E4%B8%96%E8%AE%BA01.m4a?dl=0)
 - [死后的状况](https://www.dropbox.com/s/gepif231j69y27r/02%E6%AD%BB%E5%90%8E%E7%9A%84%E7%8A%B6%E5%86%B5.mp3?dl=0)
+- [末世地上的征兆](https://www.dropbox.com/s/80vafeva6qsd7yy/04%E6%9C%AB%E4%B8%96%E5%9C%B0%E4%B8%8A%E7%9A%84%E9%A2%84%E5%85%86.m4a?dl=0)
 
 ## 门徒培训  
 
