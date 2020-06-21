@@ -107,7 +107,13 @@ layout: default
 
 [04 不可因财富而骄横 四 5:1-6](https://www.dropbox.com/s/bjsegpyd8jroiul/504%E5%AE%B4%E4%B9%90%E8%83%8C%E9%81%93%E6%98%AF%E9%AA%84%E6%A8%AA%E7%9A%84%E6%81%B6%E6%9E%9C%28%E4%BA%945-6%29.m4a?dl=0)
 
-[05 恒切忍耐的智慧 上 5:7-9](https://www.dropbox.com/s/fczw6imuvf0bers/505%E5%87%AD%E4%BF%A1%E5%BF%83%E6%81%92%E5%88%87%E5%BF%8D%E8%80%90%28%E4%BA%947-9%29.m4a?dl=0)
+[05 恒切忍耐的智慧 上 5:7-11](https://www.dropbox.com/s/fczw6imuvf0bers/505%E5%87%AD%E4%BF%A1%E5%BF%83%E6%81%92%E5%88%87%E5%BF%8D%E8%80%90%28%E4%BA%947-9%29.m4a?dl=0)
 
-[06 恒切忍耐的智慧 下 5:7-9](https://www.dropbox.com/s/fczw6imuvf0bers/505%E5%87%AD%E4%BF%A1%E5%BF%83%E6%81%92%E5%88%87%E5%BF%8D%E8%80%90%28%E4%BA%947-9%29.m4a?dl=0)
+[06 恒切忍耐的智慧 下 5:7-11](https://www.dropbox.com/s/fczw6imuvf0bers/505%E5%87%AD%E4%BF%A1%E5%BF%83%E6%81%92%E5%88%87%E5%BF%8D%E8%80%90%28%E4%BA%947-9%29.m4a?dl=0)
+
+[07 不可起誓 5:12](https://www.dropbox.com/s/vile7k2qdpl8osi/507%E4%B8%8D%E5%8F%AF%E8%B5%B7%E8%AA%93%28%E4%BA%9412%29.m4a?dl=0)
+
+[08 祷告与赞美 5:13](https://www.dropbox.com/s/7jvrmt8k2ukfk13/508%E7%A5%B7%E5%91%8A%E4%B8%8E%E8%B5%9E%E7%BE%8E%28%E4%BA%9413%29.m4a?dl=0)
+
+[09 灵魂的医治 5:14-15](https://www.dropbox.com/s/pmbo10w4g1x4z9y/509%E7%81%B5%E9%AD%82%E7%9A%84%E5%8C%BB%E6%B2%BB%28%E4%BA%9414-15%29.m4a?dl=0)
 
