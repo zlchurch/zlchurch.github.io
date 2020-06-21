@@ -32,7 +32,11 @@ layout: default
 第十讲 末世论 
 - [主在来和末世论](https://www.dropbox.com/s/mjojckcxja0ahda/%E4%B8%BB%E5%86%8D%E4%B8%B4%E4%B8%8E%E6%9C%AB%E4%B8%96%E8%AE%BA01.m4a?dl=0)
 - [死后的状况](https://www.dropbox.com/s/gepif231j69y27r/02%E6%AD%BB%E5%90%8E%E7%9A%84%E7%8A%B6%E5%86%B5.mp3?dl=0)
-- [末世地上的征兆](https://www.dropbox.com/s/80vafeva6qsd7yy/04%E6%9C%AB%E4%B8%96%E5%9C%B0%E4%B8%8A%E7%9A%84%E9%A2%84%E5%85%86.m4a?dl=0)
+- [地狱的痛苦与主再临的预言](https://www.dropbox.com/s/kmpaafrac14lx3u/03%E5%9C%B0%E7%8B%B1%E7%97%9B%E8%8B%A6%E4%B8%8E%E4%B8%BB%E5%86%8D%E6%9D%A5%E7%9A%84%E9%A2%84%E8%A8%80.mp3?dl=0)
+- [末世主再临地上的征兆](https://www.dropbox.com/s/80vafeva6qsd7yy/04%E6%9C%AB%E4%B8%96%E5%9C%B0%E4%B8%8A%E7%9A%84%E9%A2%84%E5%85%86.m4a?dl=0)
+- [末世主再临宗教的征兆](https://www.dropbox.com/s/f9rpia1h3zpcrm0/05%E6%9C%AB%E4%B8%96%E4%B8%BB%E5%86%8D%E4%B8%B4%E5%AE%97%E6%95%99%E7%9A%84%E9%A2%84%E5%85%86.mp3?dl=0)
+- [末世主再临中东的征兆 上](https://www.dropbox.com/s/ulrhn6fwmh4wuch/06%E6%9C%AB%E4%B8%96%E4%B8%BB%E5%86%8D%E4%B8%B4%E5%AE%97%E6%95%99%E4%B8%AD%E4%B8%9C%E9%A2%84%E5%85%86.mp3?dl=0)
+- [末世主再临中东的征兆 下](https://www.dropbox.com/s/s2ltuhfv97la236/07%E6%9C%AB%E4%B8%96%E4%B8%BB%E5%86%8D%E4%B8%B4%E4%B8%AD%E4%B8%9C%E7%9A%84%E9%A2%84%E5%85%86.mp3?dl=0)
 
 ## 门徒培训  
 
