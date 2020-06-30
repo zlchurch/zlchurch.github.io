@@ -117,3 +117,9 @@ layout: default
 
 [09 灵魂的医治 5:14-15](https://www.dropbox.com/s/pmbo10w4g1x4z9y/509%E7%81%B5%E9%AD%82%E7%9A%84%E5%8C%BB%E6%B2%BB%28%E4%BA%9414-15%29.m4a?dl=0)
 
+[10 祷告与团契 5:16](https://www.dropbox.com/s/savue9dary691d8/510%E7%A5%B7%E5%91%8A%E4%B8%8E%E5%9B%A2%E5%A5%91%28%E4%BA%9416%29.m4a?dl=0)
+
+[11 祷告的大能 5:17-18](https://www.dropbox.com/s/kpxoewti7cnkfd6/511%E7%A5%B7%E5%91%8A%E7%9A%84%E5%A4%A7%E8%83%BD%28%E4%BA%9417-18%29.m4a?dl=0)
+
+[12 帮扶失丧者 5:19-20](https://www.dropbox.com/s/1rwosa7d6f5iba6/512%E5%B8%AE%E6%89%B6%E5%A4%B1%E4%B8%A7%E8%80%85%28%E4%BA%9419-20%29.m4a?dl=0)
+
