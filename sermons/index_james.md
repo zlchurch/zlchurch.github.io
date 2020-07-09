@@ -7,6 +7,8 @@ layout: default
 
 ###  第一章
 
+版本一
+
 [01 神仆的请安 1:1](https://www.dropbox.com/s/hlgs0d0rvcyeog3/01%E7%A5%9E%E4%BB%86%E7%9A%84%E8%AF%B7%E5%AE%89%28%E4%B8%801%29.m4a?dl=0)  
 
 [02 劝勉试炼中的圣徒 1:1-8](https://www.dropbox.com/s/lc0imreophm542k/02%E5%8A%9D%E5%8B%89%E8%AF%95%E7%82%BC%E4%B8%AD%E7%9A%84%E5%9C%A3%E5%BE%92%28%E4%B8%801-8%29.m4a?dl=0)  
@@ -34,6 +36,14 @@ layout: default
 [13 只是你们要行道 1:22-25](https://www.dropbox.com/s/9cpzhs8u83fq5v0/13%E5%8F%AA%E6%98%AF%E4%BD%A0%E4%BB%AC%E8%A6%81%E8%A1%8C%E9%81%9322-25.m4a?dl=0)  
 
 [14 虚的虔诚&实的虔诚](https://www.dropbox.com/s/4u9p39373guz6no/14%E8%99%9A%E7%9A%84%E8%99%94%E8%AF%9A%EF%BC%86%E5%AE%9E%E7%9A%84%E8%99%94%E8%AF%9A26-27.m4a?dl=0)
+
+版本二
+
+[01 神仆的问安 1:1](https://www.dropbox.com/s/2z8gata86yi3r8n/101%E4%B8%BB%E4%BB%86%E7%9A%84%E9%97%AE%E5%AE%89%28%E4%B8%801%29.m4a?dl=0)  
+
+[02 试炼中的大喜乐 1:2-4](https://www.dropbox.com/s/lt3x9umsydnbfvy/102%E8%AF%95%E7%82%BC%E4%B8%AD%E7%9A%84%E5%A4%A7%E5%96%9C%E4%B9%90%28%E4%B8%802-4%29.m4a?dl=0)  
+
+[03 赐智慧的神 1:5](https://www.dropbox.com/s/a4ouhcjnzajpj1s/103%E6%81%A9%E8%B5%90%E6%99%BA%E6%85%A7%E7%9A%84%E7%A5%9E%28%E4%B8%805%29.m4a?dl=0)  
 
 ### 第二章
 
