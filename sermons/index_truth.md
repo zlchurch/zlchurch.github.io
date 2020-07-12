@@ -39,6 +39,7 @@ layout: default
 - [末世主再临中东的征兆 下](https://www.dropbox.com/s/s2ltuhfv97la236/07%E6%9C%AB%E4%B8%96%E4%B8%BB%E5%86%8D%E4%B8%B4%E4%B8%AD%E4%B8%9C%E7%9A%84%E9%A2%84%E5%85%86.mp3?dl=0)
 - [末世主再临以色列复国的预兆](https://www.dropbox.com/s/m038gfzb9s1b6gn/34%E6%9C%AB%E4%B8%96%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%8D%E5%9B%BD%E7%9A%84%E9%A2%84%E5%85%86.mp3?dl=0)
 - [末世主再临天空的预兆](https://www.dropbox.com/s/x7eag9vlm1rcy3b/35%E6%9C%AB%E4%B8%96%E5%A4%A9%E7%A9%BA%E7%9A%84%E9%A2%84%E5%85%86.mp3?dl=0)
+- [三种千禧年观](https://www.dropbox.com/s/penvjr71m79bgy8/36%E4%B8%89%E7%A7%8D%E5%8D%83%E7%A6%A7%E5%B9%B4%E8%A7%82.mp3?dl=0)
 
 ## 门徒培训  
 

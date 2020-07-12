@@ -45,6 +45,8 @@ layout: default
 
 [03 赐智慧的神 1:5](https://www.dropbox.com/s/a4ouhcjnzajpj1s/103%E6%81%A9%E8%B5%90%E6%99%BA%E6%85%A7%E7%9A%84%E7%A5%9E%28%E4%B8%805%29.m4a?dl=0)  
 
+[04 试炼与信心 1:6-8](https://www.dropbox.com/s/f620efcxhz45c51/104%E8%AF%95%E7%82%BC%E4%B8%AD%E7%9A%84%E4%BF%A1%E5%BF%83%28%E4%B8%806-7%29.m4a?dl=0)
+
 ### 第二章
 
 [01 偏心待人是犯罪 2:1-4](https://www.dropbox.com/s/l07w5imsbqlnyoh/01%E5%81%8F%E5%BF%83%E5%BE%85%E4%BA%BA%E6%98%AF%E7%8A%AF%E7%BD%AA%281-4%29.m4a?dl=0)   
